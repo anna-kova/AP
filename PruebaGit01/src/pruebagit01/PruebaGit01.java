@@ -17,7 +17,7 @@ public class PruebaGit01 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Version Prueba");
-        System.out.println("Vercion 2.2");   
+        System.out.println("Vercion 2.3");   
     }
     
 }
